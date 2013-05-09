@@ -26,4 +26,6 @@ doc/app
 *.swp
 *~
 .DS_Store
+#aptana project nature
+.project
 
